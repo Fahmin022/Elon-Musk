@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.firstheader {
+    width: 90%;
+    height: 300px;
+    background-color: grey;
+    margin-left: 50px;
+    
+}
+.firstheader .h1 {
+    text-align: center;
+    
+}
+.firstheader .h3 {
+    text-align: center;
+}
+.h1 {
+    position: absolute;
+    top: 70px;
+    left: 500px;
+}
+.h3 {
+    position: absolute;
+    top: 120px;
+    left: 280px;
+
+}
+.secondheader {
+    display: flex;
+    gap: 100px;
+    margin-left: 320px;
+    margin-top: 20px;
+}
+.thirdheader {
+    width: 90%;
+    padding: 50px;
+    border: 1px solid black;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.fourthheader {
+    width: 90%;
+    padding: 50px;
+    border: 1px solid black;
+    margin-left: 50px;
+     margin-top: 20px;
+}
+.fifthheader {
+    width: 90%;
+    padding: 50px;
+    border: 1px solid black;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.tesla, .spaceX, .h4 {
+    margin: 15px 0;
+}
